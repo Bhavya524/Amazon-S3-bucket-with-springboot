@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Amazon-S3-Bucket
+  fs: AWS
+#  aws:
+#    access: //access key
+#    secret: //secret key
+#    bucket: // bucket name
+#    region: us-east-1
